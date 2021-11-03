@@ -1,0 +1,110 @@
+body{
+    background-color: #999;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+
+header{
+    width: 1000px;
+    height: 100px;
+    margin: auto;
+    background-color: #ededed;
+    text-align: center;
+    font-size: 30px;
+    padding: 30px;
+    box-sizing: border-box;
+    margin-top: 20px;
+    color: #666;
+}
+
+nav{
+    width: 1000px;
+    height: 100px;
+    margin: auto;
+    background-color: #ededed;
+    text-align: center;
+    font-size: 30px;
+    padding: 30px;
+    box-sizing: border-box;
+    margin-top: 10px;
+    color: #666
+}
+.govde{
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+    width: 1000px;
+    height: 600px;
+
+
+}
+section{
+
+    width: 600px;
+    height: 400px;
+    margin: auto;
+    background-color: #ededed;
+    text-align: center;
+    font-size: 30px;
+    padding: 30px;
+    box-sizing: border-box;
+    margin-top: 10px;
+    margin-right: 20px;
+    color: #666
+
+    }
+
+article{
+    width: 100%;
+    height: 70%;
+    background-color: #999;
+    margin-top: 70px;
+    color: #fff;
+
+}
+h1{
+    width: 90%;
+    height: 30%;
+    background-color: #ededed;
+    margin: 40px 5% 10px 5%;
+    color: #666
+}
+
+p{
+    width: 90%;
+    height: 30%;
+    background-color: #ededed;
+    margin: 10px 5% 10px 5%;  
+    color: #666
+}
+
+aside{
+    width: 400px;
+    height: 400px;
+    background-color: #ededed;
+    text-align: center;
+    font-size: 30px;
+    padding: 30px;
+    box-sizing: border-box;
+    margin-top: 10px;
+    color: #666
+}
+
+
+
+
+footer{
+    width: 1000px;
+    height: 100px;
+    margin: auto;
+    background-color: #ededed;
+    text-align: center;
+    font-size: 30px;
+    padding: 30px;
+    box-sizing: border-box;
+    margin-top: -180px;
+    color: #666
+    
+}
