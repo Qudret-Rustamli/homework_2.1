@@ -1,4 +1,4 @@
-#   *** Bu proyekt Full Stack proğramlaşdırma kampının ikinci ev taösırığıdı.
+#   *** Bu proyekt Full Stack proğramlaşdırma kampının ikinci ev tapsırığıdı.***
 
 
 Bu proyektdə sadə HTML və CSS kodlarından istifadə olunmuşudr.
